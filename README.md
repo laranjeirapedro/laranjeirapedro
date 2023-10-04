@@ -23,8 +23,7 @@
         src="https://github-readme-stats.vercel.app/api?username=laranjeirapedro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"></a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height="200em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=laranjeirapedro&layout=compact&theme=github_dark"
-            alt="Top Languages">
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=laranjeirapedro&layout=compact&theme=github_dark"alt="Top Languages">
     </a>
 </div>
 
