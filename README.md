@@ -17,13 +17,10 @@
 | ------------- | ------------- |
 -->
 
-<div align="center">
-    <a href="https://github.com/laranjeirapedro">
-        <img height="200em" width="48%"
-            src="https://github-readme-stats.vercel.app/api?username=laranjeirapedro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laranjeirapedro&layout=compact&theme=github_dark" alt="Top Languages">
-    </a>
+<div>
+   <a href="https://github.com/laranjeirapedro">
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=laranjeirapedro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=laranjeirapedro&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 <!--   
