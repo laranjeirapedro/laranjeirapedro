@@ -1,7 +1,7 @@
 <img align="center" src="Banner.png" />
 
 <h1 align="center">Hey! I'm Pedro Laranjeira, a Front End Developer</h1>
-<h4 align="center">I am a passionate about Technology making my way to become a great Software Engineer!</h4>
+<h4 align="center">I am passionate about Technology making my way to become a great Software Engineer!</h4>
 
 - 💬 Ask me about **javascript, html and css**
 - 📫 How to reach me: **pedrohl.m@hotmail.com**
@@ -18,9 +18,14 @@
 -->
 
 <div>
-   <a href="https://github.com/laranjeirapedro">
-   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=laranjeirapedro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=laranjeirapedro&layout=compact&langs_count=6&theme=tokyonight"/>
+    <a href="https://github.com/laranjeirapedro">
+        <img height="200em"
+        src="https://github-readme-stats.vercel.app/api?username=laranjeirapedro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="200em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=laranjeirapedro&layout=compact&theme=github_dark"
+            alt="Top Languages">
+    </a>
 </div>
 
 <!--   
