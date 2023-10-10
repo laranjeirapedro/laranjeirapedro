@@ -1,9 +1,9 @@
 <img align="center" src="newBanner.png" />
 
-<h1 align="center">Hey! I'm Pedro Laranjeira, a Front End Developer</h1>
+<h1 align="center">Hey! I'm Pedro Laranjeira, a Project Manager and Front End Developer</h1>
 <h4 align="center">I am passionate about Technology making my way to become a great Software Engineer!</h4>
 
-- 💬 Ask me about **javascript, html and css**
+- 💬 Ask me about **Project Manager, Javascript, HTML and CSS**
 - 📫 How to reach me: **pedrohl.m@hotmail.com**
 - 🔭 I’m currently pursuing my Computer Programming Diploma at Georgian College at Ilac in Toronto - CA
 - 👨‍💻 You can find more info about me at [***Portfolio (version 1.0)***](https://pedro-laranjeira.netlify.app/)<!-- - [https://tarun-chawla.tech/](https://tarun-chawla.tech/) -->
