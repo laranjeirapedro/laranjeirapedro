@@ -1,6 +1,6 @@
 <img align="center" src="newBanner.png" />
 
-<h1 align="center">Hey! I'm Pedro Laranjeira, a Project Manager and Front End Developer</h1>
+<h1 align="center">Hey! I'm Pedro Laranjeira, a Project Manager and Full Stack Develper</h1>
 <h4 align="center">I am passionate about Technology making my way to become a great Software Engineer!</h4>
 
 - 💬 Ask me about **Project Manager, Javascript, React, NextJs**
