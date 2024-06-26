@@ -6,7 +6,8 @@
 - 💬 Ask me about **Project Manager, Javascript, React, NextJs**
 - 📫 How to reach me: **pedrohl.m@hotmail.com**
 - 🔭 I’m currently pursuing my Computer Programming Diploma at Georgian College at Ilac in Toronto - CA
-- 👨‍💻 You can find more info about me at [***Portfolio (version 1.0)***](https://pedro-laranjeira.netlify.app/)<!-- - [https://tarun-chawla.tech/](https://tarun-chawla.tech/) -->
+<!-- 👨‍💻 You can find more info about me at [***Portfolio (version 1.0)***](https://pedro-laranjeira.netlify.app/) -->
+<!-- - [https://tarun-chawla.tech/](https://tarun-chawla.tech/) -->
 <!--- 📝 I write blogs on [https://blog.tarun-chawla.tech/](https://blog.tarun-chawla.tech/) -->
 
 
