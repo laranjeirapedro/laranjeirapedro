@@ -1,11 +1,11 @@
 <img align="center" src="newBanner.png" />
 
-<h1 align="center">Hey! I'm Pedro Laranjeira, a Project Manager and Full Stack Develper</h1>
-<h4 align="center">I am passionate about Technology making my way to become a great Software Engineer!</h4>
+<h1 align="center">Hey! I'm Pedro Laranjeira, a Full Stack Develper</h1>
+<h4 align="center">I am passionate about Technology making my way to become a great Software Developer!</h4>
 
-- 💬 Ask me about **Project Manager, Javascript, React, NextJs**
+- 💬 Ask me about **Javascript, React, NextJs, CMS, Firebase, Node, Axios, Express**
 - 📫 How to reach me: **pedrohl.m@hotmail.com**/**pedroasso@hotmail.com**
-- 🔭 I’m currently pursuing my Computer Programming Diploma at Georgian College at Ilac in Toronto - CA
+<!-- - 🔭 I’m currently pursuing my Computer Programming Diploma at Georgian College at Ilac in Toronto - CA -->
 <!-- 👨‍💻 You can find more info about me at [***Portfolio (version 1.0)***](https://pedro-laranjeira.netlify.app/) -->
 <!-- - [https://tarun-chawla.tech/](https://tarun-chawla.tech/) -->
 <!--- 📝 I write blogs on [https://blog.tarun-chawla.tech/](https://blog.tarun-chawla.tech/) -->
