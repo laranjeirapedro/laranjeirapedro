@@ -1,4 +1,4 @@
-<img align="center" src="newBanner.png" />
+<img align="center" src="gitBanner.png" />
 
 <h1 align="center">Hey! I'm Pedro Laranjeira, a Full Stack Develper</h1>
 <h4 align="center">I am passionate about Technology making my way to become a great Software Developer!</h4>
