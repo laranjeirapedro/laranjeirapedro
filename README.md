@@ -21,12 +21,14 @@
 <div>
     <a href="https://github.com/laranjeirapedro">
         <img height="170em"
-        src="https://github0stats.vercel.app/api?username=laranjeirapedro&show_icons=true&theme=github_dark"alt="Status""></a>
+        src="https://github0stats-laranjeirapedros-projects.vercel.app/api?username=laranjeirapedro&show_icons=true&theme=github_dark" alt="Status">
+    </a>
     <a href="https://github.com/laranjeirapedro">
         <img height="170em"
-        src="https://github0stats.vercel.app/api/top-langs/?username=laranjeirapedro&layout=compact&theme=github_dark"alt="Top Languages">
+        src="https://github0stats-laranjeirapedros-projects.vercel.app/api/top-langs/?username=laranjeirapedro&layout=compact&theme=github_dark" alt="Top Languages">
     </a>
 </div>
+
 
 <!--   
 <div align='center'>
